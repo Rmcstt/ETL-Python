@@ -16,7 +16,7 @@ cursor = conexao.cursor()
 
 #criando a query
 
-query = "SELECT * FROM cursos"
+query = "SELECT * FROM pessoas"
 
 #executando a query
 
